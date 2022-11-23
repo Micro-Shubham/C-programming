@@ -1,4 +1,4 @@
-// check wheather number is positive, negative or zero//
+// check whether number is positive, negative or zero//
 #include <stdio.h>
 int main ()  {
 int a ;
@@ -8,11 +8,12 @@ if(a>0)  {
 printf("a is positive number  ");
 
 }
-if (a<0) {
+
+ else if (a<0) {
     printf("a is negative number ");
  
 }
-if (a==0) {
+else if (a == 0) {
 printf("a is equal to zero ");
 }
 return 0;
