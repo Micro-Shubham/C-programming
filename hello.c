@@ -1,11 +1,7 @@
 #include<stdio.h>
 int main() 
 {   
-int age = 19;
-
-
-scanf("%d", &age);
-printf("age is  %d\n",age);
+printf("neeraj loves his mohabbat ");
 
 return 0;
 }
