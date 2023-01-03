@@ -1,0 +1,8 @@
+alt + tab "switch between applications"
+ctrl + z "undo"
+
+gcc filename.c "compile the filename.c into a.exe"
+gcc filename.c -o compliename  "compile the filename into compilename.exe"
+./copilefile.exe "will run the file"
+
+use && operator to run two command at once
